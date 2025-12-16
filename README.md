@@ -220,6 +220,7 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 
 
 
+
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
 ***2010 CVPR*** Data fusion through cross-modality metric learning using similarity-sensitive hashing(`CMSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539928)  
@@ -441,7 +442,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2025 TCSVT*** Deep Discriminative Boundary Hashing for Cross-Modal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003934)[[Code]](https://github.com/QinLab-WFU/DDBH)  
 ***2025 TCSVT*** Dual Prototypes-Based Personalized Federated Adversarial Cross-Modal Hashing(`DP-FeAd`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078306)  
 ***2025 TCSVT*** Generative Augmentation Hashing for Few-shot Cross-Modal Retrieva(`GAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11079701)[[Code]](https://github.com/xiaolaohuuu/GAH)  
-
+***2025 MM** Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval(`DPBE`)[[paper]](https://dl.acm.org/doi/10.1145/3746027.3754811)[[code]](https://github.com/QinLab-WFU/DPBE)  
+***2025 TMM** Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval(`DSTH`)[[paper]](https://ieeexplore.ieee.org/document/11208593)[[code]](https://github.com/QinLab-WFU/DSTH)  
 
 
 
@@ -782,10 +784,28 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision(`CLIP`)[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
 ***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models(`CoCoOp`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)  
 ***2022 IJCV*** Learning to Prompt for Vision-Language Models(`CoOp`)[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)  
+***2022 CVPR*** Prompt Distribution Learning[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Prompt_Distribution_Learning_CVPR_2022_paper.pdf)[[code]](https://github.com/bbbdylan/proda)  
+***2022 ECCV*** Visual prompt tuning[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930696.pdf)[[code]](https://github.com/KMnP/vpt)  
+***2022 EMNLP*** PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models[[paper]](https://aclanthology.org/2022.emnlp-main.763/)[[code]](https://github.com/thunlp/PEVL)  
 ***2023 CVPR*** MaPLe: Multi-modal Prompt Learning(`MaPLe`)[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)  
-***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters(`CLIP-Adapter`)[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
+***2023 ICCV*** Prompt-aligned Gradient for Prompt Tuning[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)[[code]](https://github.com/BeierZhu/Prompt-align)  
+***2023 ICCV*** Self-regulating prompts： Foundational model adaptation without[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)[[code]](https://github.com/muzairkhattak/PromptSRC)  
+***2023 ICCV*** What Does a Platypus Look Like？ Generating Customized Prompts for Zero-Shot Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)  
+***2023 NIPS*** Parameter-Efficient Fine-tuning of InstructBLIP for visual reasoning tasks[[paper]](https://neurips.cc/virtual/2023/81194)[[code]](https://github.com/AttentionX/InstructBLIP_PEFT)  
+***2023 NIPS*** InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning[[paper]](https://papers.nips.cc/paper_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html)[[code]](https://github.com/salesforce/LAVIS/blob/main/projects/instructblip/README.md)  
 ***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
+***2024 CVPR*** Prompt Learning via Meta-Regularization[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Prompt_Learning_via_Meta-Regularization_CVPR_2024_paper.pdf)[[code]](https://github.com/mlvlab/ProMetaR)  
+***2024 ICLR*** Consistency-guided Prompt Learning for Vision-Language Models[[paper]](https://openreview.net/forum?id=wsRXwlwx4w)[[code]](https://github.com/ShuvenduRoy/CoPrompt)  
+
+
 ### 😄Adapter Learning   
+***2022 ECCV*** Tip-Adapter: Training-Free Adaption of CLIP for Few-Shot Classification[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950487.pdf)[[code]](https://github.com/gaopengcuhk/Tip-Adapter)  
+***2023 ICCV*** SuS-X: Training-Free Name-Only Transfer of Vision-Language Models[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Udandarao_SuS-X_Training-Free_Name-Only_Transfer_of_Vision-Language_Models_ICCV_2023_paper.pdf)[[code]](https://github.com/vishaal27/SuS-X)  
+***2023 NIPS*** GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b25c39788e5cf11d3541de433ebf4c0-Paper-Conference.pdf)[[code]](https://github.com/lixinustc/GraphAdapter)  
+***2023 NIPS*** Meta-Adapter: An Online Few-shot Learner for Vision-Language Model[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad48f017e6c3d474caf511208e600459-Abstract-Conference.html)[[code]](https://github.com/ArsenalCheng/Meta-Adapter)  
+***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
+***2024 ACL*** ContextBLIP： Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions[[paper]](https://aclanthology.org/2024.findings-acl.961/)[[code]](https://github.com/LHL3341/ContextBLIP)  
+***2024 ICLR*** LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/c196239c5f9481e0db2755f31fe4585f-Abstract-Conference.html)[[code]](https://github.com/OpenGVLab/LLaMA-Adapter)  
 
 ## 😍RAG(Non-Hashing)  
 ### 😄Single-Modal
