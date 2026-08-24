@@ -444,6 +444,29 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2025 TCSVT*** Generative Augmentation Hashing for Few-shot Cross-Modal Retrieva(`GAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11079701)[[Code]](https://github.com/xiaolaohuuu/GAH)  
 ***2025 MM** Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval(`DPBE`)[[paper]](https://dl.acm.org/doi/10.1145/3746027.3754811)[[code]](https://github.com/QinLab-WFU/DPBE)  
 ***2025 TMM** Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval(`DSTH`)[[paper]](https://ieeexplore.ieee.org/document/11208593)[[code]](https://github.com/QinLab-WFU/DSTH)  
+***2025 IPM*** Adaptive Asymmetric Supervised Cross-Modal Hashing with Consensus Matrix[[Paper]](https://www.sciencedirect.com/science/article/pii/S0306457324003960)  
+***2025 TKDE*** Collaboratively Semantic Alignment and Metric Learning for Cross-Modal Hashing(`CSAMH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10869375)  
+***2025 TOMM*** A Unified Generative Hashing for Cross-Modal Retrieval(`UGH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3744567)  
+***2025 Information Fusion*** Dual-Driven Cross-Modal Contrastive Hashing Retrieval Network Via Structural Feature and Semantic Information(`DDCCH`)[[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525003252)
+***2025 ICMR*** Adaptive Asymmetric Online Hashing for Cross-Modal Retrieval(`AAOH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3731715.3733267)  
+***2025 TCSVT*** Incomplete Multi-Modal Weakly-Supervised Hashing With Consensus Bipartite Graph(`IMEH-CBG`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872895)  
+***2026 AAAI*** Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels(`ATCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39760)  
+***2026 TMM*** Dual-Semantic Enhancement Cross-Modal Hashing With Noisy Labels(`DSENL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11417252)  
+***2026 AAAI*** Online Cross-Modal Hashing with Expanding Label Space(`OH-ELS`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39242)  
+***2026 PR*** Supervised Discrete Cross-Modal Hashing with Exploiting Semantic Correlations[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326006928)  
+***2026 TOMM*** Relation-Aware Proxy Hashing for Cross-Modal Retrieval(`RAPH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3811910)  
+***2026 AAAI*** Semantic-Consistent Bidirectional Contrastive Hashing for Noisy Multi-Label Cross-Modal Retrieval(`SCBCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39667)  
+***2026 TOMM*** Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval(`DUaPH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3785478)[[Code]](https://github.com/QinLab-WFU/DUaPH)  
+***2026 TMM*** Deep Distance Weighted Sampling Hashing for Cross-modal Retrieval(`DDWSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11353914)[[Code]](https://github.com/QinLab-WFU/DDWSH)  
+***2026 TKDE*** Deep Stochastic Spherical Hashing with von Mises-Fisher Distributions for Cross-Modal Retrieval(`DSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11397828)[[Code]](https://github.com/QinLab-WFU/DSSH)
+***2026 TIP*** External Guidance Incomplete Cross-Modal Hashing(`EGICH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433515)[[Code]](https://github.com/chenjiali27/EGICH)  
+***2026 TOMM*** Noise-Robust Generative Hashing for Cross-Modal Retrieval(`NRGH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3777477)[[Code]](https://github.com/xiaolaohuuu/NRGH)  
+***2026 TPAMI*** An Efficient Regenerated Cross-Modal Hashing: Improving Existing Hash Codes With the Arbitrary Length(`ERCMH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11498689)  
+***2026 PR*** Adaptive Centroid Guided Hashing for Cross-Modal Retrieval(`ACGH`)[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326001512)  
+***2026 PR*** Joint Asymmetric Discrete Hashing for Cross-Modal Retrieval(`JADH`)[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326001457)  
+***2026 PR*** Unified Stable and Generalizable Online Hashing for Cross-Modal Retrieval(`USGOH`)[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326010186)  
+***2026 AAAI*** PEOCH: Online Cross-Modal Hashing with Semi-Supervised Streaming Data Driving Prototype Evolution(`PEOCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38523/42485)  
+***2026 TKDE*** Dual Graph Network Hashing for Cross-Modal Retrieval(`DGNH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11595767)  
 
 
 
@@ -674,7 +697,11 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 
 ### 😄Cross-Modal 
 * #### Deep-Supervised  
-***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)[[Code]](http://www.sdu-idea.cn/codes.php?name=LtCMH)        
+***2023 AAAI*** Long-Tail Cross Modal Hashing (`LTCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25927/25699)[[Code]](http://www.sdu-idea.cn/codes.php?name=LtCMH)  
+***2026 TIP*** Long-Tailed Approaching Cross-Modal Hashing With Multi-Expert Collaborative Learning (`LACH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11623424)[[Code]](https://github.com/caoyuan618/LACH)    
+***2026 PR*** Prior-Informed Generative Hashing Under Non-Ideal Semantic Manifolds for Cross-Modal Retrieval (`PIGH`)[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326013105/pdfft?isDTMRedir=true&download=true)    
+***2026 ArXiv*** TriPAH: Imbalance-Aware Tri-Prompt Affinity Hashing for Cross-Modal Medical Retrieval[[Paper]](https://arxiv.org/pdf/2606.27010)  
+
 ### 😄Multi Experts(Non-Hashing) 
 * #### Deep-Supervised
 ***2020 ECCV*** Learning From Multiple Experts Self-paced Knowledge Distillation for Long-tailed Classification(`LFME`)[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58558-7_15.pdf?pdf=inline%20link)  
@@ -696,6 +723,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2020 ICASSP*** Semantic augmentation hashing for zero-shot image retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053661)  
 ***2022 TIP***  Supervised adaptive similarity matrix hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740336)  
 ***2023 TKDE*** Zero-Shot Hashing via Asymmetric Ratio Similarity Matrix[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712384)  
+
 * #### Deep-Supervised
 ***2017 ICJAI*** Discrete Similarity Transfer Network for Zero-shot Hashing(SitNet)[[Paper]](http://ise.thss.tsinghua.edu.cn/mig/2017-11.pdf)  
 ***2018 CVPR*** Zero-Shot Sketch-Image Hashing[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf)  
@@ -704,7 +732,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2020 ICPR*** Visual-Semantic Bi-Branch Network for Zero-Shot Hashing(VSB2-Net)[[Paper]](https://sci-hub.yncjkj.com/https://ieeexplore.ieee.org/abstract/document/9412798/)  
 ***2021 PRL*** An orthogonal hashing method for zero-shot cross-modal retrieval(CHOP)[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0167865521000787)    
 ***2024 TPAMI*** Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10404027)    
-***2024 ArXiv*** COMAE: COMprehensive Attribute Exploration for Zero-shot Hashing[[Paper]](https://arxiv.org/pdf/2402.16424)[[Code]](https://github.com/YihangZhou0424/NN2024-COMAE)    
+***2025 CIKM*** COMAE: Comprehensive Attribute Exploration for Zero-shot Hashing[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3731715.3733294)[[Code]](https://github.com/YihangZhou0424/NN2024-COMAE)    
+***2025 TOMM*** Domain-Aware Semantic Alignment Hashing for Large-Scale Zero-Shot Image Retrieval[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3734871)    
+***2025 MM*** Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755201)[[Code]](https://github.com/QinLab-WFU/FTH)    
+***2025 ArXiv*** Zero-Shot Hashing Based on Reconstruction with Part Alignment[[Paper]](https://arxiv.org/pdf/2503.07037)    
+***2026 TOMM*** Generative Zero-Shot Hashing for Multi-Label Image Retrieval[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3815114)    
+***2026 TOMM*** Deep Relational Knowledge Distillation Hashing via Relaxed Masking Triplet Optimization for Large-scale Image Retrieval[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3820061)[[Code]](https://github.com/QinLab-WFU/DRKDH)    
+***2026 AAAI*** Proxy Zero-Shot Hashing with Multimodal Fusion via Stable Diffusion[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38247)[[Code]](https://github.com/caoyuan618/PZSH)  
 
 ### 😄Cross-Modal 
 * #### Deep-Supervised
