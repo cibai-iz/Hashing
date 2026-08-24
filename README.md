@@ -217,7 +217,25 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2025 TBD*** A Privacy-Preserving Large-Scale Image Retrieval Framework With Vision GNN Hashing(`VIGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10767424)  
 ***2025 TBD*** Deep Global Distance Estimation Hashing for Image Retrieval(`DEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10982178)  
 ***2025 TBD*** SRGTNet: Subregion-Guided Transformer Hash Network for Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10854876)  
-
+***2025 TIP*** Adaptive Bit Selection for Scalable Deep Hashing[[Paper]](https://ieeexplore.ieee.org/document/10857966)  
+***2025 TIP*** BITS: Bit-Extendable Incremental Hashing in Open Environments[[paper]](https://ieeexplore.ieee.org/document/11185317)[[code]](https://github.com/yxinwang/BITS)  
+***2025 TIP*** Asymmetric and Discrete Self-Representation Enhancement Hashing for Cross-Domain Retrieval[[paper]](https://ieeexplore.ieee.org/document/11114784)  
+***2025 TNNLS*** Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning(`ACH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838339)   
+***2025 AAAI*** Deep Graph Online Hashing for Multi-Label Image Retrieval(`DGOH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32191)[[Code]](https://github.com/caoyuan57/DGOH)  
+***2025 AAAI*** Generalized Debiased Semi-Supervised Hashing for Large-Scale Image Retrieval(`GDSH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32600)  
+***2025 AAAI*** KALAHash: Knowledge-Anchored Low-Resource Adaptation for Deep Hashing(`KALAHash`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33136)[[Code]](https://github.com/Tree-Shu-Zhao/KALAHash.pytorch)  
+***2025 IJCAI*** ST-TAR: An Efficient Spatio-Temporal Learning Framework for Traffic Accident Risk Forecasting(`ST-TAR`)[[Paper]](https://www.ijcai.org/proceedings/2025/865)[[Code]](https://github.com/wanghyhy/ST-TAR)  
+***2025 IJCAI*** Distributed Cascaded Manifold Hashing Network for Compact Image Set Representation(`DCMHN`)[[Paper]](https://www.ijcai.org/proceedings/2025/222)  
+***2025 IJCAI*** FedCCH: Automatic Personalized Graph Federated Learning for Inter-Client and Intra-Client Heterogeneity(`FedCCH`)[[Paper]](https://www.ijcai.org/proceedings/2025/333)  
+***2025 MM*** Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval(`FTH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755201)[[Code]](https://github.com/QinLab-WFU/FTH)  
+***2025 MM*** MADPHash: Manipulation-Aware Deep Perceptual Hashing using Feature Consistency(`MADPHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755264)  
+***2025 SIGIR*** Reconciling Efficiency and Effectiveness of Exercise Retreival: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing(`HashCAT`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730072)[[Code]](https://github.com/sherklock/Intelligent-Education/tree/main/HashCAT-main)  
+***2025 WWW*** GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems(`GraphHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714910)[[Code]](https://github.com/snap-research/GraphHash)  
+***2026 Pattern Recognition*** Learning interpretable binary codes via semantic alignment for customized image retrieval(`IBC`)[[paper]](https://doi.org/10.1016/j.patcog.2025.112380)  
+***2026 ESWA*** Deep global-ranking hashing via average precision approximation for large-scale image retrieval(`DGrH`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426004707)[[code]](https://github.com/QinLab-WFU/DGrH)  
+***2026 ESWA*** Deep neighborhood-based component proxy hashing for large-scale image retrieval(`DNCPH`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426008377)[[code]](https://github.com/QinLab-WFU/DNCPH)  
+***2026 Signal Processing*** Deep semantic channel hashing for large-scale image retrieval(`DSCH`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0923596526000822)[[code]](https://github.com/QinLab-WFU/DSCH)  
+***2026 ESWA*** Deep Attribute-aware Hashing for Zero-Shot Image Retrieval(`DA2H`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426014582)[[code]](https://github.com/QinLab-WFU/DAH)  
 
 
 
@@ -775,11 +793,18 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 
 
 ## 😍Quantization  
-***2024 MM*** One-bit Deep Hashing：Towards Resource-Efficient Hashing Model with Binary Neural Network[[Paper]](https://dl.acm.org/doi/10.1145/3664647.3681496)     
+***2024 MM*** One-bit Deep Hashing：Towards Resource-Efficient Hashing Model with Binary Neural Network[[Paper]](https://dl.acm.org/doi/10.1145/3664647.3681496)   
+
 ### 😄Mixed-Bit Quantization(Non-Hashing)
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
+***2021 AAAI*** FracBits: Mixed Precision Quantization via Fractional Bit-Widths(`FracBits`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17269)  
+***2021 ICML*** Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution(`DDQ`)[[paper]](https://proceedings.mlr.press/v139/zhang21r.html)  
+***2021 ICML*** HAWQ-V3: Dyadic Neural Network Quantization(`HAWQ-V3`)[[paper]](https://proceedings.mlr.press/v139/yao21a.html)[[code]](https://github.com/Zhen-Dong/HAWQ)  
+***2021 ICLR*** BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization(`BSQ`)[[paper]](https://openreview.net/forum?id=TiXl51SCNw8)[[code]](https://github.com/yanghr/BSQ)  
+***2023 AAAI*** OMPQ: Orthogonal Mixed Precision Quantization(`OMPQ`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26084)  
+
 ### 😄Binary Quantization(Non-Hashing)
 ***2015 NIPS*** BinaryConnect: Training Deep Neural Networks with binary weights during propagations[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)  
 ***2016 ECCV*** XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks[[Paper]](https://arxiv.org/pdf/1603.05279)[[code]](https://github.com/allenai/XNOR-Net)  
@@ -812,6 +837,18 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICCV*** MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Vo_MST-compression_Compressing_and_Accelerating_Binary_Neural_Networks_with_Minimum_Spanning_ICCV_2023_paper.pdf)  
 ***2024 CVPR*** A&BBNN:Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)  
 ***2024 CVPR***  BiPer: Binary Neural Networks using a Periodic Function[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[[Code]](https://github.com/edmav4/BiPer)  
+***2025 CVPR*** BHViT: Binarized Hybrid Vision Transformer(`BHViT`)[[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_BHViT_Binarized_Hybrid_Vision_Transformer_CVPR_2025_paper.html)[[code]](https://github.com/IMRL/BHViT)  
+***2025 CVPR*** Binarized Neural Network for Multi-spectral Image Fusion(`BNNPan`)[[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_Binarized_Neural_Network_for_Multi-spectral_Image_Fusion_CVPR_2025_paper.html)  
+***2025 CVPR*** Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing(`BMTNet`)[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Binarized_Mamba-Transformer_for_Lightweight_Quad_Bayer_HybridEVS_Demosaicing_CVPR_2025_paper.pdf)[[code]](https://github.com/Clausy9/BMTNet)  
+***2025 ICCV*** Information-Bottleneck Driven Binary Neural Network for Change Detection(`BiCD`)[[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yin_Information-Bottleneck_Driven_Binary_Neural_Network_for_Change_Detection_ICCV_2025_paper.html)  
+***2025 AAAI*** Fast and Slow Gradient Approximation for Binary Neural Network Optimization(`FSG`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34896)[[code]](https://github.com/two-tiger/FSG)  
+***2025 NeurIPS*** Binary Quadratic Quantization: Beyond First-Order Quantization for Real-Valued Matrix Compression(`BQQ`)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e7cf82c8f34920d20299a84b16b720e8-Abstract-Conference.html)  
+***2025 TNNLS*** Hyperbolic Binary Neural Network(`HBNN`)[[paper]](https://doi.org/10.1109/TNNLS.2024.3485115)  
+***2025 Image and Vision Computing*** Distribution-modulated binary neural network for image classification(`DM-BNN`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0262885625002343)[[code]](https://github.com/NianKong/DM-BNN)  
+***2026 ICLR*** BEP: A Binary Error Propagation Algorithm for Binary Neural Networks Training(`BEP`)[[paper]](https://openreview.net/forum?id=jxtCMoZIu8)  
+***2026 AAAI*** BD-Net: Has Depth-Wise Convolution Ever Been Applied in Binary Neural Networks?(`BD-Net`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/39416/43377)[[code]](https://github.com/kacel33/BD-Net)  
+***2026 Pattern Recognition*** WCFE-Net: Weight constraint and flick enforcement for improving performance of binary neural networks(`WCFE-Net`)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007459)[[code]](https://github.com/Wang-Shuhuai/WCFE-Net)  
+***2026 TNNLS*** ABNN: Adaptive-Gating Binary Neural Network With Dynamic Activation Quantization for Industrial Health Status Prediction(`ABNN`)[[paper]](https://doi.org/10.1109/TNNLS.2025.3577620)  
 
 ## 😍LLM Fine-tuning(Non-Hashing)
 ### 😄Prompt Learning   
