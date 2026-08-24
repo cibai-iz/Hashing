@@ -61,7 +61,7 @@
 ***2021 CIKM*** Deep Self-Adaptive Hashing for Image Retrieval(`DSAH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482247)  
 ***2022 AAAI*** Deep Unsupervised Hashing with Latent Semantic Components(`DSCH`)[[Paper]](https://arxiv.org/pdf/2203.09420.pdf)[[Code]](https://github.com/Bruce-XJChen/DSCH)  
 ***2022 Neuro*** Unsupervised deep hashing with pretrained semantic information distillation and preservation(`PSIDP`)[[Paper]](https://pdf.sciencedirectassets.com/271597/1-s2.0-S0925231222X00283/1-s2.0-S0925231222007937/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDoaCXVzLWVhc3QtMSJHMEUCIQDLgzfVmYHNBLZWLiTEBDxh4beYNPBXXG9EfcIiBpqrvQIgQEi%2FyJNy43n3mv6VzH%2BXSFEhsA2UWx7nO%2FuRRteJML8qswUIEhAFGgwwNTkwMDM1NDY4NjUiDNJhBr7PTFvrgGJZcCqQBdcF%2FbCSMIpqIZBnIqk9Tj1PgMrrEz4IwLb3oOD9bs79yc5pl5vZcq5Xz8lpp7KBpMAvdcymL9vEJs0A59ltsPvjEoRB79Pp7%2Fyjvqq3NeUIdMnffyJA5B6RumO4GsIbD577B078s7PgeWU4a8twy2ydYYaMVK7vSSkS5MTFo2jCsP6zLoelngsWO9Map7rlIJf45T4L2TrGWVdZ%2F14ciwhY4FX8FETtCHUN7V2wu030ipIPwV1UvPJUD%2FPuSIE6PoAkyrlF7bvhn3LXkK0Ay3oz3tJAvY9kihaNbJkjMXqrG49h%2BU4sDqx7TswCEBcSUI5UkIkG4qk7LwPa6i13dv6Q9%2FhnRzg28yDDualSUN6DMcVFONaY9wXUGOZ1nsT2h4ENFaza8eYVFA%2F1eak3JJ9a9HikOsflUVfzspTePkU63yRCOeZ%2B%2BsvBWrLpIFiTKdy178CxfIvkD727qTBFoR1Hl%2FDtQKhoQMy0%2BsTQdcL79jwfpnGA4MzAHSSZPzgPg4sdWRougis9Z2cQf3iiJN1zFC%2F54VnEZspM0MyMA1iAYLNYip3CkBJ1KAdW5RA1W6JVR6S17XgvsogDE8xqpOeZKoecifQ0AWwbpPTSgHIO9xw6s9xux1tpZiGi%2F8JMMwQW4gwIfMbrpFKy0NsRV5auy5GQibH2TIRnnchjL%2FaiPEq4LM%2B3LyhQiDyDKe8Yj5xfblelMA4zp0s%2Buwv2i%2FeMuie%2FF6Gi6SyHK94%2B0GRK0fX9fqn8x2IvIgaXxHV%2F94HtLOTmyW1obmdqH%2BmmJGuVv8jjhXgO5BFncJZG3Pyi92%2FXrhevGwcteMIkm7O8clc0D4JR%2B2OHjlnImAb8VBgyY6elJKNtAWWPlE%2BSxkR%2BMJ38y6cGOrEBFXUT2joLpYmjtMNF4sCwvPVy2qNglKwVjZNxjYZvoPbRacS9Vim8Yt0eiAWKsUXQ0yJ%2Fl8fHNJ%2BEj9LHs86h%2BxSNFiyVSMeXqEyjdMqkzWzLdYV6ryDOa%2FOoxjHxHq98%2Ba3qhbHzoyPGwGRxKw%2FQsGLpTi0uy%2BlwsSlvo6%2BddksQEenom%2Fivcg%2B95wMcOTDci0cIZ49X7UyvZ2Z5ETUUS4NlEtL6B5D8m2ZXEinBwcpU&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230902T095302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYRXQYPEEC%2F20230902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6eac435448b888e143420aae23049c37569540d2ba5478b2999d01248b8b249e&hash=5f17cb5f5fd7c96afce3286cee2bae50a9aa179f04a44be297a406701463baaa&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925231222007937&tid=spdf-c11a3eef-7d89-44a5-b6eb-99785ba6863b&sid=8d52d06d81c81041d25ae25-beecf9958990gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=19085853545a030a545000&rr=8004dd17bbd38b45&cc=cn)[[Code]](https://github.com/reresearcher/PSIDP)  
-***2022 AAAI*** Contrastive Quantization with Code Memory for Unsupervised Image Retrieval(`MeCoQ`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20147/19906)[[Code]](https://github.com/gimpong/AAAI22-MeCoQ)  
+***2022 AAAI*** Contrastive Quantization with Code Memory for Unsupervised Image Retrieval(`MeCoQ`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20147/19906)[[Code]](https://github.com/gimpong/AAAI22-MeCoQ) 
 ***2022 MM*** Improved Deep Unsupervised Hashing via Prototypical Learning(`PURPLE`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548403)  
 ***2022 SPL*** Improve Deep Unsupervised Hashing via Structural
 and Intrinsic Similarity Learning(`HashSIM`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705618)[[Code]](https://github.com/FrankloveCQ/HashSIM)  
@@ -91,6 +91,12 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2025 AAAI*** TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering(`TPCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35443)[[Code]](https://github.com/jankin-wang/TPCH)  
 ***2025 AAAI*** HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning(`HaCore`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34409)  
 ***2025 KDD*** IDentity with Locality: An Ideal Hash for Gene Sequence Search(`IDL`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3690624.3709233)[[Code]](https://github.com/gaurav16gupta/CKBF)  
+***2026 TCSVT*** Hierarchical Text-Guided Hashing for Open-World Image Retrieval(`HTH`)[[Paper]](https://ieeexplore-ieee-org-s.otrust.ouc.edu.cn/stamp/stamp.jsp?tp=&arnumber=11339951)  
+***2026 TCSVT*** SMRFHash: Semantic-Guided Multi-Representation Fusion Hashing for Fine-Grained Image Retrieval(`SMRFHash`)[[Paper]](https://ieeexplore-ieee-org-s.otrust.ouc.edu.cn/stamp/stamp.jsp?tp=&arnumber=11593866) 
+***2026 TIP*** LP2DH: A Locality-Preserving Pixel-Difference Hashing Framework for Dynamic Texture Recognition(`LP2DH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11643494)[[Code]](https://github.com/drx770/LP2DH)  
+***2026 TMM*** Multi-Modal Knowledge Distillation Hashing Based on CLIP for Weakly Supervised Image Retrieval(`MKDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11329168)[[Code]](https://github.com/IMAG-LZY/MKDH)  
+***2026 TMM*** Text-Guided Unsupervised Hashing with Community Exploration for Image Retrieval(`TGUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433051)  
+***2026 TPAMI*** Fast and Scalable Hashing-Based Universal Graph Coarsening(`UGC`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11454439)[[Code]](https://github.com/katariaMohit/UGC-Universal-Graph-Coarsening/tree/mainUGC)  
 
 * #### Deep-Supervised  
 ***2014 SIGIR*** Supervised Hashing with Latent Factor Model(`LFH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/2600428.2609600)[[Code]](https://github.com/TreezzZ/LFH_PyTorch)  
@@ -606,9 +612,11 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2020 ICIP*** An End-to-End Adversarial Hashing Method for Unsupervised Multispectral Remote Sensing Image Retrieval [[Paper]](https://ieeexplore.ieee.org/document/9190949)  
 ***2021 GRSL*** Unsupervised Remote Sensing Image Retrieval Using Probabilistic Latent Semantic Hashing (`pLSH`)[[Paper]](https://ieeexplore.ieee.org/document/8985303)  
 ***2022 TGRS*** Multisource Data Reconstruction-Based Deep Unsupervised Hashing for Unisource Remote Sensing Image Retrieval (`MrHash`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001754)[[Code]](https://github.com/sunyuxi/MrHash)  
+***2026 TBD*** Center Contrastive Long-tailed Hashing for Unsupervised Remote Sensing Image Retrieval(`CCLH`)[[Paper]](https://ieeexplore-ieee-org-s.otrust.ouc.edu.cn/stamp/stamp.jsp?tp=&arnumber=11629583)[[Code]](https://github.com/caoyuan618/CCLH)  
+***2026 TGRS*** Unsupervised Contrastive Transformer Hashing for Cross-Modal Remote Sensing Retrieval(`TGRS`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11557407)[[Code]](https://github.com/holdibson/CTHRS)  
 
 * #### Deep-Supervised  
-***2020 TGRS*** Hashing Nets for Hashing: A Quantized Deep Learning to Hash Framework for Remote Sensing Image Retrieval(`QDLH`)[[Paper]](https://www2.umbc.edu/rssipl/people/aplaza/Papers/Journals/2020.TGRS.Hashing.pdf)  
+***2020 TGRS*** Hashing Nets for Hashing: A Quantized Deep Learning to Hash Framework for Remote Sensing Image Retrieval(`QDLH`)[[Paper]](https://www2.umbc.edu/rssipl/people/aplaza/Papers/Journals/2020.TGRS.Hashing.pdf) 
 ***2021 TGRS*** Deep Hash Learning for Remote Sensing Image Retrieval(`DHL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9143474)[[Code1]](https://git.tu-berlin.de/rsim/duch)[[Code2]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval)  
 ***2021 TGRS*** Deep Hashing Learning for Visual and Semantic Retrieval of Remote Sensing Images(`DHCNN`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261143)  
 ***2022 TGRS*** Asymmetric Hash Code Learning for Remote Sensing Image Retrieval(`AHCL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9682689)[[Code]](https://github.com/weiweisong415/Demo_AHCL_for_TGRS2022)  
@@ -618,11 +626,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 TGRS*** Encrypting Hashing Against Localization(`EHaL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102104)[[Code]](https://github.com/JingpengHan/EHaL)   
 ***2024 TGRS*** Hashing for Retrieving Long-Tailed Distributed Remote Sensing Images(`CIAH`)[[Paper]](https://ieeexplore.ieee.org/document/10418149)   
 ***2025 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://github.com/YubinYuan/TLSH-MOT)  
+
 ### 😄Cross-Modal  
 * #### Deep-Unsupervised  
 ***2022 ICASSP*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746251)[[Code1]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval) [[Code2]](https://git.tu-berlin.de/rsim/duch)  
 ***2022 ICIP*** An Unsupervised Cross-Modal Hashing Method Robust to Noisy Training Image-Text Correspondences in Remote Sensing(`CHNR`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897500)[[Code]](https://git.tu-berlin.de/rsim/chnr)    
 ***2024 TRSL*** Deep Multiscale Fine-Grained Hashing for Remote Sensing Cross-Modal Retrieval(`DMFH`)[[Paper]](https://ieeexplore.ieee.org/document/10384440)
+
 * #### Deep-Supervised  
 ***2020 TGRS*** Deep Cross-Modal Image–Voice Retrieval in Remote Sensing(`DIVR`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9044618)  
 ***2022 TGRS*** Cohesion Intensive Hash Code Book Coconstruction for Efficiently Localizing Sketch Depicted Scenes[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9634055)  
@@ -636,6 +646,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ### 😄Grid   
 ***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
 ***2024 CIKM*** Hypergraph Hash Learning for Efficient Trajectory Similarity Computation(`Traj-HHL`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3627673.3679555)[[Code]](https://github.com/caoyuan57/HHL-Traj)  
+***2026 TBD*** Trajectory Similarity Hash Learning With Spatio-Temporal GRU(`TrajH-ST`)[[Paper]](https://ieeexplore-ieee-org-s.otrust.ouc.edu.cn/stamp/stamp.jsp?tp=&arnumber=11432961)[[Code]](https://github.com/caoyuan618/Traj-ST/)  
+
 ### 😄Grid(Non-hashing)   
 * #### Deep-Unsupervised
 ***2018 ICDE*** Deep Representation Learning for Trajectory Similarity Computation(`t2vec`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509283)[[Code]](https://github.com/boathit/t2vec)  
@@ -651,6 +663,10 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 AAAI*** Contrastive Pre-training with Adversarial Perturbations for Check-in Sequence Representation Learning(`CACSR`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25546)[[Code]](https://github.com/LetianGong/CACSR)    
 ***2023 ICDE*** Contrastive Trajectory Similarity Learning with Dual-Feature Attention(`TrajCL`)[[Paper]](https://arxiv.org/abs/2210.05155)[[Code]](https://github.com/changyanchuan/TrajCL)    
 ***2024 AAAI*** KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding(`KGTS`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28672))
+***2025 KDD*** Blurred Encoding for Trajectory Representation Learning(`BLUE`)[[Paper]](https://arxiv.org/pdf/2511.13741)[[Code]](https://github.com/slzhou-xy/BLUE)  
+***2026 AAAI*** Region-Point Joint Representation for Effective Trajectory Similarity Learning(`RePo`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38571)  
+***2026 AAAI*** Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning(`MetaTRL`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38658)  
+
 ### 😄Road(Non-hashing)   
 * #### Deep-Unsupervised
 ***2021 KDD*** A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks(`GTS`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467337)  
@@ -659,6 +675,9 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 DASFAA*** Trajectory Representation Learning Based on Road Network Partition for Similarity Computation（`PT2vec`）[[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-30637-2.pdf?pdf=button)  
 ***2023 AAAI*** GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM(`GRLSTM`）[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25624/25396) [[Code]](https://github.com/slzhou-xy/GRLSTM)  
 ***2023 ICDE*** Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics(`START`）[[Paper]](https://ieeexplore.ieee.org/abstract/document/10184736) [[Code]](https://github.com/aptx1231/START)  
+***2025 KDD*** Grid and Road Expressions Are Complementary for Trajectory Representation Learning(`GREEN`)[[Paper]](https://dl.acm.org/doi/10.1145/3690624.3709272)[[Code]](https://github.com/slzhou-xy/GREEN)  
+***2026 TKDE*** Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning(`CORE`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11592601)[[Code]](https://github.com/caoji2001/CORE)  
+***2026 ICDE*** Robust Spatial-Temporal Similar Trajectory Search via Structure-Enhanced Domain-Invariant Learning(`RoTraj`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11629533)[[Code]](https://anonymous.4open.science/r/RoTraj5022)  
 
 ## 😍Attack     
 ### 😄Single-Modal 
@@ -666,6 +685,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2018 IEEE Trans Cybern*** Adversarial Examples for Hamming Space Search(`HAG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/8573146)[[Code]](https://github.com/yangerkun/Adversarial-examples-for-hamming-space-search)    
 ***2021 ICMR*** A Smart Adversarial Attack on Deep Hashing Based Image Retrieval(`SDHA`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3460426.3463640)     
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)    
+***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)  
+***2025 TCSVT*** Toward a Universal, Transferable, and Robust Adversarial Perturbation Framework Against Deep Hashing-Based Facial Image Retrieval(`UTAP++`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10908403)  
 
 * #### Targeted  
 ***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36)[[Code]](https://github.com/jiawangbai/DHTA-master) 
@@ -679,6 +700,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 MMAsia*** Targeted Transferable Attack against Deep Hashing Retrieval(`TTA-GAN`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3595916.3626420)  
 ***2025 TMM*** Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing(`PADHASH`)[[Paper]](https://arxiv.org/abs/2503.21236)   
 ***2025 AAAI*** HUANG: A Robust Diffusion Model-based Targeted Adversarial Attack Against Deep Hashing Retrieval(`HUANG`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32377)  
+***2025 TIFS*** All Points Guided Adversarial Generator for Targeted Attack Against Deep Hashing Retrieval(`APGA`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10854600)[[Code]](https://github.com/rongxintu3/APGA)  
 
 ### 😄Cross-Modal
 * #### Non-targeted     
@@ -700,9 +722,11 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)  
 ***2023 TIFS*** Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval(`SAAT`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189878)[[Code]](https://github.com/xandery-geek/SAAT)  
 ***2025 SIGIR*** Two-stage Adversarial Training for Deep Hashing via Representation Distillation(`CRDAT`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730103)
+***2026 TCSVT*** Certified Robustness for Hashing via Randomized Smoothing(`Certified Hashing`)[[Paper]](https://ieeexplore-ieee-org-s.otrust.ouc.edu.cn/stamp/stamp.jsp?tp=&arnumber=11556472)  
 
 ### 😄Cross-Modal 
 ***2025 TCSVT*** FPAD: Fuzzy-Prototype-guided Adversarial Attack and Defense for Deep Cross-Modal Hashing(`FPAD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145157)[[Code]](https://github.com/yzq131/FPAD)  
+***2026 TMM*** Hedge Defense-Based Adversarial Robustness for Cross-Modal Deep Hashing Networks(`HD-CMDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11625984)  
 
 ## 😍Long-Tail     
 ### 😄Single-Modal   
