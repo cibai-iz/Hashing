@@ -12,6 +12,7 @@
 ***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
 ***2024 TGRS*** Hash-Based Remote Sensing Image Retrieval(`HBRRSIR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10599496)  
 ***2025 IJCV*** An Empirical Study on Training Paradigms for Deep Supervised Hashing[[Paper]](https://link.springer.com/article/10.1007/s11263-025-02506-3)    
+***2026 Journal of National University of Defense Technology*** A survey on deep hashing for image retrieval[[Paper]](https://www.sciopen.com/article/10.11887/j.issn.1001-2486.26010003)   
 
 ### 😄Cross-Modal  
 ***2020 IEEE ACCESS*** A Review of Hashing Methods for Multimodal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963910)  
@@ -334,6 +335,14 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2025 MM*** Unsupervised Similarity-Fusion Transformer Hashing for Multimodal Retrieval(`USFTH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3754753)  
 ***2025 TCSVT*** Deep Learning to Hash With Application to Cross-View Nearest Neighbor Search[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10119236)  
 ***2025 TCSVT*** PFedLAH: Personalized Federated Learning With Lookahead for Adaptive Cross-Modal Hashing(`PFedLAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10924221)  
+***2025 MM*** Unsupervised Adversarial Contrastive Hashing for Cross-Modal Retrieval(`UACH`)[[Paper]](https://doi.org/10.1145/3746252.3761334)  
+***2025 SPL*** Transformer Based Unsupervised Cross-Modal Hashing for Normal and Remote Sensing Retrieval(`TUCH`)[[Paper]](https://doi.org/10.1109/LSP.2025.3602637)[[Code]](https://github.com/sellaner/TUCH)  
+***2026 AAAI*** ENHash: Error Notebook-Guided Fine-Grained Learning for Unsupervised Cross-Modal Hashing(`ENHash`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39257)  
+***2026 AAAI*** UDCH: Unsupervised Dynamic Weighted Cluster-cooperative Hashing for Cross-modal Retrieval(`UDCH`)[[Paper]](https://doi.org/10.1609/aaai.v40i16.38332)  
+***2026 MM*** Unsupervised Cross-Modal Semantic Invariance Hashing(`USIH`)[[Paper]](https://doi.org/10.1145/3805622.3810819)  
+***2026 MM*** Contrastive Multimodal Fusion and Pseudo-Label Method for Unsupervised Cross-Modal Hashing Retrieval(`CMFPL`)[[Paper]](https://doi.org/10.1145/3805622.3810606)  
+***2026 TIP*** BRAINHash: Brain-Inspired Region-Aligned Interaction Network for Unsupervised Cross-Modal Hashing(`BRAINHash`)[[Paper]](https://doi.org/10.1109/TIP.2026.3719578)  
+***2026 TMM*** Minimizing Semantic Gap for Accurate Unsupervised Cross-modal Hashing via Hyperplane-Bit Quantization[[Paper]](https://doi.org/10.1109/TMM.2026.3721343)  
 
 * #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
@@ -466,8 +475,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2025 TCSVT*** Deep Discriminative Boundary Hashing for Cross-Modal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003934)[[Code]](https://github.com/QinLab-WFU/DDBH)  
 ***2025 TCSVT*** Dual Prototypes-Based Personalized Federated Adversarial Cross-Modal Hashing(`DP-FeAd`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078306)  
 ***2025 TCSVT*** Generative Augmentation Hashing for Few-shot Cross-Modal Retrieva(`GAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11079701)[[Code]](https://github.com/xiaolaohuuu/GAH)  
-***2025 MM** Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval(`DPBE`)[[paper]](https://dl.acm.org/doi/10.1145/3746027.3754811)[[code]](https://github.com/QinLab-WFU/DPBE)  
-***2025 TMM** Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval(`DSTH`)[[paper]](https://ieeexplore.ieee.org/document/11208593)[[code]](https://github.com/QinLab-WFU/DSTH)  
+***2025 MM*** Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval(`DPBE`)[[paper]](https://dl.acm.org/doi/10.1145/3746027.3754811)[[code]](https://github.com/QinLab-WFU/DPBE)  
+***2025 TMM*** Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval(`DSTH`)[[paper]](https://ieeexplore.ieee.org/document/11208593)[[code]](https://github.com/QinLab-WFU/DSTH)  
 ***2025 IPM*** Adaptive Asymmetric Supervised Cross-Modal Hashing with Consensus Matrix[[Paper]](https://www.sciencedirect.com/science/article/pii/S0306457324003960)  
 ***2025 TKDE*** Collaboratively Semantic Alignment and Metric Learning for Cross-Modal Hashing(`CSAMH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10869375)  
 ***2025 TOMM*** A Unified Generative Hashing for Cross-Modal Retrieval(`UGH`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3744567)  
@@ -891,6 +900,14 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
 ***2024 CVPR*** Prompt Learning via Meta-Regularization[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Prompt_Learning_via_Meta-Regularization_CVPR_2024_paper.pdf)[[code]](https://github.com/mlvlab/ProMetaR)  
 ***2024 ICLR*** Consistency-guided Prompt Learning for Vision-Language Models[[paper]](https://openreview.net/forum?id=wsRXwlwx4w)[[code]](https://github.com/ShuvenduRoy/CoPrompt)  
+***2026 AAAI*** Dropout Prompt Learning: Towards Robust and Adaptive Vision-Language Models[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39083)[[Code]](https://github.com/JustCoolPig/DroPLe)  
+***2026 CVPR*** Towards Calibrating Prompt Tuning of Vision-Language Models[[Paper]](https://arxiv.org/abs/2602.19024)[[Code]](https://github.com/ashshaksharifdeen/TCPT)  
+***2026 CVPR*** CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment(`CAPT`)[[Paper]](https://arxiv.org/abs/2603.02557)[[Code]](https://github.com/greatest-gourmet/CAPT)  
+***2026 ICML*** NeRP: Neutral-Reference Prompting for Vision-Language Models(`NeRP`)[[Paper]](https://arxiv.org/abs/2605.15615)[[Code]](https://github.com/Sheldon04/NeRP)  
+***2026 TPAMI*** SDPT: Synchronous Dual Prompt Tuning for Visual-Language Pre-trained Models(`SDPT`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11516328)[[Code]](https://github.com/wuyongjianCODE/SDPT)  
+***2026 ICML*** AlignedNorm: Prompting Vision-Language Models via Coupled Prompt Field(`AlignedNorm`)[[Paper]](https://openreview.net/forum?id=aQAWAtrxxe)[[Code]](https://github.com/QByteM/AlignedNorm)  
+***2026 CVPR*** FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models(`FedMPT`)[[Paper]](https://arxiv.org/abs/2605.28347)  
+***2026 CVPR*** LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation(`LOREAL`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_LOREAL_Mitigating_Low-Resolution_Challenges_in_Vision-Language_Models_with_Attribute-driven_Prompt_CVPR_2026_paper.pdf)  
 
 
 ### 😄Adapter Learning   
@@ -901,6 +918,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
 ***2024 ACL*** ContextBLIP： Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions[[paper]](https://aclanthology.org/2024.findings-acl.961/)[[code]](https://github.com/LHL3341/ContextBLIP)  
 ***2024 ICLR*** LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/c196239c5f9481e0db2755f31fe4585f-Abstract-Conference.html)[[code]](https://github.com/OpenGVLab/LLaMA-Adapter)  
+***2025 ICLR*** MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models[[Paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/8951bbdcf234132bcce680825e7cb354-Abstract-Conference.html)[[Code]](https://github.com/NJUDeepEngine/meteora)  
+***2025 ACL*** Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models(`CLoRA`)[[Paper]](https://aclanthology.org/2025.acl-long.940/)[[Code]](https://github.com/sutakori/CLoRA)  
+***2025 ACL*** Continual Gradient Low-Rank Projection Fine-Tuning for LLMs(`GORP`)[[Paper]](https://aclanthology.org/2025.acl-long.721/)[[Code]](https://github.com/Wcxwcxw/GORP)  
+***2025 NeurIPS*** LoRA vs Full Fine-tuning: An Illusion of Equivalence[[Paper]](https://openreview.net/forum?id=xp7B8rkh7L)  
+***2025 CVPR*** LDC: Logits DeConfusion with CLIP for Few-Shot Learning(`LDC`)[[Paper]](https://arxiv.org/abs/2504.12104)[[Code]](https://github.com/LiShuo1001/LDC)  
+***2026 CVPR*** DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles(`DeAR`)[[Paper]](https://arxiv.org/abs/2603.01111)[[Code]](https://github.com/wellsssssss/DeAR)  
+***2026 TPAMI*** MMA++: Effective Multi-Modal Adaptation for Vision-Language Models(`MMA++`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/11534926)  
 
 ## 😍RAG(Non-Hashing)  
 ### 😄Single-Modal
@@ -913,6 +937,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 EMNLP*** Active Retrieval Augmented Generation[[Paper]](https://aclanthology.org/2023.emnlp-main.495/)[[Code]](https://github.com/jzbjyb/FLARE)  
 ***2024 AAAI*** Benchmarking Large Language Models in Retrieval-Augmented Generation[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29728)[[Code]](https://github.com/chen700564/RGB)    
 ***2024 ICLR*** Self-RAG: Learning to Retrieve, Generate,and Critique through Self-Reflection[[Paper]](https://iclr.cc/virtual/2024/oral/19736)[[Code]](https://selfrag.github.io/)  
+***2025 NeurIPS*** Chain-of-Retrieval Augmented Generation(`CoRAG`)[[Paper]](https://neurips.cc/virtual/2025/poster/116740)[[Code]](https://github.com/microsoft/LMOps/tree/main/corag)  
+***2025 ACL*** Shifting from Ranking to Set Selection for Retrieval Augmented Generation[[Paper]](https://aclanthology.org/2025.acl-long.861/)  
+***2026 ICLR*** Q-RAG: Long Context Multi-Step Retrieval via Value-Based Embedder Training(`Q-RAG`)[[Paper]](https://iclr.cc/virtual/2026/oral/10009945)[[Code]](https://github.com/griver/Q-RAG)  
+***2026 AAAI*** PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths(`PathRAG`)[[Paper]](https://doi.org/10.1609/aaai.v40i36.40268)[[Code]](https://github.com/BUPT-GAMMA/PathRAG)  
+***2026 AAAI*** ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation(`ArchRAG`)[[Paper]](https://doi.org/10.1609/aaai.v40i19.38619)  
+***2026 AAAI*** You Don't Need Pre-Built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures(`LogicRAG`)[[Paper]](https://doi.org/10.1609/aaai.v40i36.40278)  
+***2026 ACL*** Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation[[Paper]](https://aclanthology.org/2026.acl-long.1188/)  
 
 ### 😄Multi-Modal
 * #### Image Captioning
@@ -929,15 +960,31 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 CVPR*** MeaCap: Memory-Augmented Zero-shot Image Captioning[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_MeaCap_Memory-Augmented_Zero-shot_Image_Captioning_CVPR_2024_paper.pdf)[[Code]](https://github.com/joeyz0z/MeaCap)  
 ***2024 CVPR*** EVCAP: Retrieval-Augmented Image Captioning with External Visual–Name Memory for Open-World Comprehension[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_EVCap_Retrieval-Augmented_Image_Captioning_with_External_Visual-Name_Memory_for_Open-World_CVPR_2024_paper.pdf)[[Code]](https://github.com/Jiaxuan-Li/EVCap)  
 ***2024 CVPR*** Wiki-LLaVA:Hierarchical Retrieval-Augmented Generation for Multimodal LLMs[[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/html/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.html)  
+***2025 AAAI*** Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines[[Paper]](https://doi.org/10.1609/aaai.v39i23.34653)  
+***2025 ACM MM*** Retrieval-Augmented Image Captioning and Generation with Entity Concepts Enhancement for Baidu Multimodal Advertising[[Paper]](https://doi.org/10.1145/3726302.3731957)  
+***2025 ACM MM*** Retrieval-Augmented Image Captioning via Synthesized Entity-Aware Knowledge Representations[[Paper]](https://doi.org/10.1145/3746252.3761265)  
+***2025 Information Fusion*** Fine-grained Knowledge Fusion for Retrieval-Augmented Medical Visual Question Answering[[Paper]](https://doi.org/10.1016/j.inffus.2025.103059)  
+***2026 ACM MM*** PeaCap: Patch-Level Retrieval for Lightweight Retrieval-Augmented Image Captioning[[Paper]](https://doi.org/10.1145/3805712.3809956)  
+
 * #### RAG+Diffusion
 ***2023 NIPS*** Retrieval-Augmented Diffusion Models[[Paper]](https://papers.nips.cc/paper_files/paper/2022/hash/62868cc2fc1eb5cdf321d05b4b88510c-Abstract-Conference.html)[[Code]](https://github.com/CompVis/retrieval-augmented-diffusion-models)  
 ***2023 ICLR*** KNN-DIFFUSION: IMAGE GENERATION VIA LARGE-SCALE RETRIEVAL[[Paper]](https://iclr.cc/virtual/2023/poster/12206)[[Code]](https://github.com/LinWeizheDragon/Retrieval-Augmented-Visual-Question-Answering)  
 ***2023 ICLR*** Re-Imagen: Retrieval-Augmented Text-to-Image Generator[[Paper]](https://openreview.net/forum?id=XSEBx0iSjFQ)   
 ***2023 ICCV*** ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf)[[Code]](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)  
 ***2024 ICML*** Mastering Text-to-Image Diffusion:Recaptioning, Planning,and Generating with Multimodal LLMs[[Paper]](https://openreview.net/forum?id=DgLFkAPwuZ)[[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)    
+***2025 ICCV*** Reference-Based Super-Resolution via Image-Based Retrieval-Augmented Generation Diffusion[[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Reference-Based_Super-Resolution_via_Image-Based_Retrieval-Augmented_Generation_Diffusion_ICCV_2025_paper.pdf)  
+***2025 ACM MM*** Brain Image Reconstruction with Retrieval-Augmented Diffusion[[Paper]](https://doi.org/10.1145/3726302.3729909)  
+
 * #### Knowledge-Intensive Tasks
 ***2024 ACL-findings*** MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning[[Paper]](https://aclanthology.org/2024.findings-acl.69/)[[Code]](https://github.com/VickiCui/MORE)  
 ***2025 ICLR*** VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents[[Paper]](https://openreview.net/forum?id=zG459X3Xge)[[Code]](https://github.com/openbmb/visrag)    
+***2025 NeurIPS*** Benchmarking Retrieval-Augmented Multimodal Generation for Document Question Answering(`MMDocRAG`)[[Paper]](https://neurips.cc/virtual/2025/poster/121603)[[Code]](https://github.com/MMDocRAG/MMDocRAG)  
+***2025 ICML*** Retrieval-Augmented Perception: High-resolution Image Perception Meets Visual RAG(`RAP`)[[Paper]](https://icml.cc/virtual/2025/poster/44979)[[Code]](https://github.com/DreamMr/RAP)  
+***2026 AAAI*** RegionRAG: Region-level Retrieval-Augmented Generation for Visual Document Understanding(`RegionRAG`)[[Paper]](https://doi.org/10.1609/aaai.v40i8.37597)  
+***2026 AAAI*** ViG-RAG: Video-aware Graph Retrieval-Augmented Generation via Temporal and Semantic Hybrid Reasoning(`ViG-RAG`)[[Paper]](https://doi.org/10.1609/aaai.v40i1.36963)  
+***2026 ACL*** Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation[[Paper]](https://aclanthology.org/2026.acl-long.1620/)[[Code]](https://github.com/Hcnaeg/utility-mrag)  
+***2026 MM*** IRAG: Robust Multimodal Retrieval-Augmented Generation via Hazard Separation(`IRAG`)[[Paper]](https://doi.org/10.1145/3774904.3792319)  
+***2026 MM*** VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos(`VideoRAG`)[[Paper]](https://doi.org/10.1145/3770854.3783944)[[Code]](https://github.com/HKUDS/VideoRAG)     
 
 ## 🎁Contact Information  
 Email: cy8661@ouc.edu.cn       
