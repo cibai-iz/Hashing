@@ -325,7 +325,7 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2024 TCSVT*** Cross-Domain Transfer Hashing for Efficient Cross-modal Retrieval(`CDTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463060)[[Code]](https://github.com/WangBowen7/CDTH)  
 ***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
-***2025 TKDE*** 25.Collaboratively Semantic Alignment and Metric Learning for Cross-Modal Hashing[[paper]](https://ieeexplore.ieee.org/document/10869375)  
+***2025 TKDE*** Collaboratively Semantic Alignment and Metric Learning for Cross-Modal Hashing[[paper]](https://ieeexplore.ieee.org/document/10869375)  
 ***2025 TPAMI*** Unsupervised Dual Deep Hashing With Semantic-Index and Content-Code for Cross-Modal Retrieval(`UDDH`)[[paper]](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI3467130-publication-version.pdf)  
 ***2025 TMM*** Ensemble Prototype Networks for Unsupervised Cross-Modal Hashing With Cross-Task Consistency(`EPNet`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10855527)  
 ***2025 TMM*** Plug-In Open-Set Cross-Modal Hashing[[Paper]](https://ieeexplore.ieee.org/abstract/document/11045399)  
